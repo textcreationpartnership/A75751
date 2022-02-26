@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 22. 1642. A brief relation of the late passages that happened at His Majesties fort of Duncannon, in the county of Wexford in Leinster, since the 8 of June, 1642. With the taking and burning the town and castle called Dunmore, being a place of shelter for the rebels, with divers other matters of note. Written by Captain Thomas Aston, imployed in that service under command of the Lord Esmond; and by him sent to a gentleman of good credit in London.</title>
+            <author>Aston, Thomas, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75751</idno>
+            <idno type="STC">Wing A4080</idno>
+            <idno type="STC">Thomason E107_36</idno>
+            <idno type="STC">ESTC R6929</idno>
+            <idno type="EEBO-CITATION">99873055</idno>
+            <idno type="PROQUEST">99873055</idno>
+            <idno type="VID">155994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July 22. 1642. A brief relation of the late passages that happened at His Majesties fort of Duncannon, in the county of Wexford in Leinster, since the 8 of June, 1642. With the taking and burning the town and castle called Dunmore, being a place of shelter for the rebels, with divers other matters of note. Written by Captain Thomas Aston, imployed in that service under command of the Lord Esmond; and by him sent to a gentleman of good credit in London.</title>
+                  <author>Aston, Thomas, Captain.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Rounthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wexford (Ireland) --  History, Military --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155994:1" rendition="simple:additions"/>
+            <p>JULY 22. 1642.</p>
+            <p>A Brief RELATION OF The late Paſſages that happened at His Majeſties Fort of <hi>Duncannon,</hi> in the County of <hi>Wexford</hi> in <hi>Leinſter,</hi> ſince the 8 of June, 1642.</p>
+            <p>With the taking and burning the Town and Caſtle called <hi>Dunmore,</hi> being a place of ſhelter for the Rebels, with divers other matters of Note.</p>
+            <p>Written by Captain <hi>Thomas Aſton,</hi> imployed in that ſervice under command of the Lord <hi>Eſmond;</hi> And by him ſent to a Gentleman of good credit in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ralph Rounthwait.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="8 June 1642" type="account">
+            <pb facs="tcp:155994:2"/>
+            <pb n="3" facs="tcp:155994:2"/>
+            <head>A Brief RELATION OF The late Paſſages that happened at His Majeſties Fort OF DUNCANNON.</head>
+            <opener>
+               <date>June <hi>8.</hi>
+               </date>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Edneſday about noon, when all our ſouldiers were at dinner within the fort, the enemy gave us a ſudden Alarum, be<g ref="char:EOLhyphen"/>ing diſcovered on the ſide of an hill, a<g ref="char:EOLhyphen"/>bout a mile diſtant from the fort, mar<g ref="char:EOLhyphen"/>ching towards the ſame, conſiſting of the number of 300 men, and 10 horſe, they having made a ſtand upon the top of a plain; Our men in ſhort time were in arms, then I, together with Lieutenant <hi>Eſmond,</hi> my Lords Lieutenant ſallyed forth with 120 Muſ<g ref="char:EOLhyphen"/>quetiers and Pikes, and marched up unto the enemy, pitching our ſelves in battle array, within Muſ<g ref="char:EOLhyphen"/>quet ſhot of them: Then I commanded my men to
+<pb n="4" facs="tcp:155994:3"/>give fire upon them by ranks, which the enemy (Ser<g ref="char:EOLhyphen"/>geant Major <hi>Butler</hi> being their Commander) anſwer<g ref="char:EOLhyphen"/>ed very boldly: The skirmiſh continued very hot be<g ref="char:EOLhyphen"/>tween us for the ſpace of two hours, till at laſt (it pleaſed God that divers of their men falling to the ground) their courage began to fail them, which we well perceiving, came up boldly, giving fire upon them as thick as we could, and forced them to retreat, purſuing them about three quarters of a mile, where we diſcovered another company of the Rebels about 100 of them, that were coming to ſecond them; we then retreated towards the Fort, but as we were re<g ref="char:EOLhyphen"/>treating, we diſcovered ſix other horſmen that were coming on the backſide of us, thinking that Sergeant Major <hi>Butler</hi> had maintained fight againſt us, and kept his ground, but preſently I commanded ſix of our horſmen to ride up unto them, which the enemy no ſooner beheld them approaching, and withall fear<g ref="char:EOLhyphen"/>ing that the Sergeant Major had loſt his ground, and been forced to retreat, but they retreated alſo down a hill into a bottome, whom our horſmen followed, un<g ref="char:EOLhyphen"/>till ſuch time as they diſcovering another company of Rebels, with Colours flying, being about 100 of them: Then our horſmen made a ſtand, but imme<g ref="char:EOLhyphen"/>diately a great ſtorm of rain aroſe, ſo as we could not purſue any further attempt againſt them, they having then the advantage againſt us, by reaſon of their fire<g ref="char:EOLhyphen"/>locks, I cauſed the Drums to beat a retreat, and brought off every man of ours, not one of them (thanks be given to God) being ſo much as touched by any ſhot that came from the enemy that day, but 'tis con<g ref="char:EOLhyphen"/>ceived that divers of the Rebels were ſlaine and
+<pb n="5" facs="tcp:155994:3"/>hurt, for when as we had beaten them off from the place where they maintained skirmiſh againſt us, we found in ſeverall places great ſtore of their bloud, as alſo a piece of Sergeant <hi>Butlers</hi> Buff coat, which was ſhot from his body that day: Moreover, at the ſame time we took Sergeant Major <hi>Butlers</hi> own Saddle<g ref="char:EOLhyphen"/>nag, with his furniture, and one Petronell, his rider being his Brother <hi>Pierce Butler,</hi> truſting to his foot<g ref="char:EOLhyphen"/>manſhip more then to his valour, eſcaped, or other<g ref="char:EOLhyphen"/>wiſe he had been taken, together with the horſe.</p>
+         </div>
+         <div n="13-30 June 1642" type="account">
+            <head>A continuance of the Paſſages that happened unto us at His Majeſties Fort of <hi>Duncannon</hi> ſithence the 8. of <hi>June,</hi> 1642.</head>
+            <div n="13 June 1642" type="part">
+               <head>June <hi>13.</hi>
+               </head>
+               <p>MUnday, hearing divers Guns to be ſhot off to<g ref="char:EOLhyphen"/>wards Tintern, and fearing that the enemie had beſieged them there, I obtained leave of the Lord <hi>Eſ<g ref="char:EOLhyphen"/>mond</hi> to march forth with ſome Muſquetiers and Pikes, and 6 horſmen, to learn what News; and ha<g ref="char:EOLhyphen"/>ving marched ſo far as a place called Kilbreed, about the midway to Tintern, I made a ſtand, and comman<g ref="char:EOLhyphen"/>ded the horſmen to ſcout abroad, who riding by the the Caſtle of Dungulp, about a mile from Kilbreed, they diſcovered ſome 30 horſes of the enemy, feeding neer the Caſtle, which our horſmen brought away, they being moſt of them labouring horſes, and not a<g ref="char:EOLhyphen"/>bove one or two fit for ſervice: Our horſmen being
+<pb n="6" facs="tcp:155994:4"/>come up unto me, and finding the ſhooting to ceaſe, I marched back again unto the Fort, not being aſſault<g ref="char:EOLhyphen"/>ed by the enemie that day.</p>
+            </div>
+            <div n="16 June 1642" type="part">
+               <head>June <hi>16.</hi>
+               </head>
+               <p>Thurſday morning at break of day having obtain<g ref="char:EOLhyphen"/>ed leave of his Lordſhip to go to Tintern, to ſee in what caſe they remained there, I marched forth with my whole company, and ſix horſmen, and came unto Tintern in ſafety, not being moleſted by the enemie, where I remained by the ſpace of 2 or 3 hours, and demanded the reaſon of the ſhooting, which had paſ<g ref="char:EOLhyphen"/>ſed the Munday before; they told me, that 10 of their men had ſallyed forth unto Dungulp, &amp; from thence taken 20 Cows, and brought them away in deſpight of the enemy, who purſued them almoſt within a Muſ<g ref="char:EOLhyphen"/>quet ſhot of the Caſtle of Tintern. Then I returned with my Drums beating a march towards the Fort, but when I came to Kilbreed, there I found a party of fifty Muſquetiers and Pikes, which his Lordſhip had ſent to ſecond me, as occaſion had ſerved, where I made a ſtand, and by and by we diſcovered the enemy, being about 200 of them, diſtant from us on our right wing, about a mile, I commanded our horſe to ad<g ref="char:EOLhyphen"/>vance towards them, to ſee if they would come on, but they kept their ſtanding, and onely came to ſhew themſelves and no more; then I marched back again unto the Fort, not having any reſiſtance given me by the enemy that day.</p>
+            </div>
+            <div n="19 June 1642" type="part">
+               <head>June <hi>19.</hi>
+               </head>
+               <p>Sunday night a Conſultation being had between the Lord <hi>Eſmond,</hi> Captain <hi>Weldon,</hi> and my ſelf, con<g ref="char:EOLhyphen"/>cerning a ſurpriſall, and an aſſault to be made in the
+<pb n="7" facs="tcp:155994:4"/>night time upon the enemie, whereas they lay quar<g ref="char:EOLhyphen"/>tered in a Town called Shelbeggan, and another ſmall Town called Burkeſtown, neer thereunto ad<g ref="char:EOLhyphen"/>joyning, being about 4 miles diſtant from the Fort, and to fire the ſame, his Lordſhip then conceived it to be moſt fit, that I ſhould give the firſt onſet, and give the Alarum: and therefore his Lordſhip under his Honours hand, ordered me the Sunday night be<g ref="char:EOLhyphen"/>fore mentioned, to march with 60 Muſquetiers and Pikes unto Tintern, there to procure what horſe and men I could get (leaving a competent Guard to de<g ref="char:EOLhyphen"/>fend the Caſtle) as alſo ſome good guides to conduct me the beſt way to ſhun the enemies Sentinell, and bring me unto that part of the Town which was ap<g ref="char:EOLhyphen"/>pointed me to fall upon, between Shilbeggan and Burkeſtown, according to his Lordſhips order, Cap<g ref="char:EOLhyphen"/>tain <hi>Weldon</hi> being likewiſe ordered by his Lordſhip under his Honours hand, to meet me in another place of the Town, with ſome 120 Muſquetiers and Pikes, and ſix horſmen, and likewiſe immediatly ſo ſoon as I had given the Alarum, and fired one houſe, to fall on into the Town to ſecond me.</p>
+               <p>In purſuance of his Lordſhips order, I marched to Tintern with my men that night, and there got a friend of mine, by name <hi>Edward Aſton,</hi> who was Com<g ref="char:EOLhyphen"/>mander of the Souldiers that defended the Caſtle, to furniſh me with 8 horſes &amp; 24 Muſquetiers, amongſt whom were ſome good guides, and to march along with me himſelf (leaving behinde him at Tintern a reaſonable guard) not having ſtayed above half an hour. In our marching towards Shilbeggan, by the help of our guides, we came ſo fortunately (albeit
+<pb n="8" facs="tcp:155994:5"/>the enemy had placed many Sentinels) as that wee came to the place appointed, where making a ſtand, wee heard one of our enemies Sentinels ſinging, whom wee had cut off, but that one of our horſes neighing, upon a ſudden the Sentinell ran into the Town, crying out, Arm, arm: The Town was pre<g ref="char:EOLhyphen"/>ſently in arms, although confuſedly, then immediatly I commanded our horſmen to advance forwards in the Van towards the Town, to ſee if they could diſ<g ref="char:EOLhyphen"/>cry the enemies horſe, which were firſt to bee inter<g ref="char:EOLhyphen"/>cepted, my ſelf and company drawing up alſo unto the Town, our horſmen having found the enemies horſe feeding juſt under the Town, drove them away, then I gave the onſet upon the Town, and fired one houſe, the firſt man that was ſlain, was the Captain of the Watch, one of their Commanders, whoſe name we do not as yet know, and eleven more, which we could diſcern, it being ſcarce break of day, but 'tis conceived there were divers more ſlain and burn<g ref="char:EOLhyphen"/>ed, and having given the Alarum, and fired the houſe as aforeſaid; Thinking Captain <hi>Weldon</hi> would have fallen on, and joyned with me according to his Lord<g ref="char:EOLhyphen"/>ſhips order, I proceeded in firing of the houſes, and firing upon the enemie, who ſhot at us very roundly on our Van; and Captain <hi>Weldons</hi> men on our Rear from off a hill neer adjoyning to the Town, that wee were forced to retreat, conceiving the enemy had been round about us, having fired onely 10 or 12 houſes. And when as we had retreated out of the Town, and and gotten out of the ſmoke thereof, the day be<g ref="char:EOLhyphen"/>ing broken, I diſcerned a body of men ſtanding up<g ref="char:EOLhyphen"/>on the top of an hill cloſe by the Towne,
+<pb n="9" facs="tcp:155994:5"/>whom afterwards I found to be Captaine <hi>Weldon</hi> and his Company, I marched up unto him, and there made a ſtand alſo; the enemy then encreaſing a pace round a<g ref="char:EOLhyphen"/>bout, we ſent forth divers muskiteers to hold them play, untill ſuch time as I had got my Enſigne off, who ſtayed behind to make good the place between both Towns with 20 muskiteers, which I had formerly commanded him to doe; I ſent twenty muskiteers more and ſix horſ-men to fetch him off, he came up unto me, and brought all our men ſafe with him, not one of our men being ſo much as once touched with any ſhot that came from the Rebels.</p>
+               <p>So having gotten all our men into a full body, we reſolved to retreat, marching toward the Fort, Cap<g ref="char:EOLhyphen"/>taine <hi>VVeldon</hi> leading the Van, my ſonne in the body, and my ſelfe in the Reare. The enemy beholding our retreat, came againſt us in the Reare, and gave fire up<g ref="char:EOLhyphen"/>on us very thicke, but we maintained our retreat and made good our Reare ſo well, that the enemy notwith<g ref="char:EOLhyphen"/>ſtanding their many numbers, and the great advantages which they tooke againſt us fro<g ref="char:cmbAbbrStroke">̄</g> ditches, could not gain any ground or advantage at all upon us. The enemy ſtill followed us retreating by the ſpace of 3 miles, gi<g ref="char:EOLhyphen"/>ving fire upon us in the reare, &amp; now and then on either wing, as they found occaſion and advantage by ditches; but we ſtil kept the<g ref="char:cmbAbbrStroke">̄</g> off, giving fire upon them ſo round<g ref="char:EOLhyphen"/>ly, that they did not ſo well reliſh our powder &amp; ſhot as to dare to approach within the command of our Arms, it being their chiefeſt drift and intent (preſuming upon their overplus of numbers) to come in upon us pel mel; This skirmiſh continued untill we came within a mile of the Fort, where in a bottom the Lord <hi>Eſmond</hi> having heard the report of our Guns, ſent his Lieutenant with
+<pb n="10" facs="tcp:155994:6"/>ſome forty muskiteeres to have ſeconded us, as alſo to make good that place, where were divers ditches caſt up; which if the enemy ſhould have gotten, might have proved very dangerous to our men in our retreat; but his Lordſhip well knowing the drift of the enemy and the danger of the place, prevented the ſame in time, for about 20 of the rebels were making all the ſpeed they could thither thinking to have come between us and the Fort, but his Lordſhips Lieutenant man'd the dit<g ref="char:EOLhyphen"/>ches, and maintained them againſt the Enemy, untill ſuch time as our men had paſſed over a brook of water, and recovered the top of the hill within command of the Fort, then the enemy retreated, and we drew off our men, and marched into the Fort, having loſt but one man all that day, and two or three more that were wounded but nothing dangerous.</p>
+               <p>The numbers of the enemy that came againſt us that day were conceived to be about ſix hundred, which would have farre increaſed the whole Countrey being raiſed, and would have fallen upon us, have we not retreated and come off ſo ſoon as we did; the cer<g ref="char:EOLhyphen"/>tain number that we this day killed or hurt on the ene<g ref="char:EOLhyphen"/>mies ſide, we cannot tell, by reaſon that ſo ſoon as a man fals, (they having men enough) he is preſently con<g ref="char:EOLhyphen"/>veyed away, ſo as we can nere come to know any num<g ref="char:EOLhyphen"/>ber of them to be ſlaine.</p>
+               <p>This day alſo we took eight of the enemies beſt and choyceſt horſes moſt fit for ſervice at my firſt onſet upon the Town, the reſidue being but plow-horſes I rather choſe to leave behind, then to hazzard any of my men in the dangerous attempt of driving them away.</p>
+            </div>
+            <div n="20 June 1642" type="part">
+               <head>Iune <hi>20.</hi>
+               </head>
+               <p>Tueſday morning my Sonne, and his men being the
+<pb n="11" facs="tcp:155994:6"/>day before compelled to retreate with me to the Fort, I obteined leave of my Lord to conduct them unto <hi>Tintein,</hi> which I did with my Company; And by the way we found where the Enemy had layen in an Am<g ref="char:EOLhyphen"/>buſcadoe, to have cut them off, imagining they would have come that way the night before; As we were returning back againe to the Fort, we diſcried a compa<g ref="char:EOLhyphen"/>ny of the Rebells on our left Wing neere unto <hi>Dungolph</hi> they made a ſtand and onely ſhewed themſelves, bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would not advance towards us, So we marched back unto the Fort, not being intercepted by the Enemy that day.</p>
+            </div>
+            <div n="27 June 1642" type="part">
+               <head>Iune <hi>27.</hi>
+               </head>
+               <p>Munday in the evening there being two ſhips which were imployed in his Majeſtes ſervice, riding at Anchor under the Fort, the one the good ſhip called the Confi<g ref="char:EOLhyphen"/>dence of <hi>Dublin,</hi> Captaine <hi>Thomas Bartlet</hi> being Com<g ref="char:EOLhyphen"/>mander thereof; the other the <hi>Mary</hi> of <hi>Briſtoll,</hi> Captain <hi>VVilliam Chappell</hi> being Commander thereof: his Lord<g ref="char:EOLhyphen"/>ſhip, Captain <hi>VVeldon,</hi> and my ſelfe, together with the ſaid Captains, upon due conſideration had of a Town and Caſtle called <hi>Doumore</hi> lying in a bay without the harbours mouth towards the Sea, farre from the ſight and command of the Fort, as alſo a place wherein the Rebels belonging to <hi>VVaterford</hi> kept divers fiſhing-boats and uſed to randevouze and ſhelter themſelves, waiting and expecting the comming of any ſhips bound for this harbour with ſupplies of Ammunition from foraigne parts for them, and to give them notice of their expectancy and attendance there, being a place where (unleſſe it proved to be tempeſtuous weather) ſhipping might ſafely Anchor and diſcharge their la<g ref="char:EOLhyphen"/>ding unknown to the Fort, reſolved that ſixty muski<g ref="char:EOLhyphen"/>teeres, twenty to be choſen out of each Company with<g ref="char:EOLhyphen"/>in
+<pb n="12" facs="tcp:155994:7"/>the Fort, ſhould goe aboard the ſaid ſhips that night, Captaine <hi>VVeldon</hi> being their Commander in chiefe, and that the ſhips ſhould fall downe before the ſaid Town by break of day, and then land the men and fire the ſame, which accordingly they landed, fired the Town, and tooke three of their fiſhing boats with their tack<g ref="char:EOLhyphen"/>ling, and came aboard againe without being interrup<g ref="char:EOLhyphen"/>ted by the enemy, who about 300. of them onely ap<g ref="char:EOLhyphen"/>peared a farre off, but fearing the Ordnance of the ſhips durſt not draw neere.</p>
+            </div>
+            <div n="30 June 1642" type="part">
+               <head>Iune <hi>30.</hi>
+               </head>
+               <p>Thurſday morning, having obtained leave of his Lordſhip to relieve the men at <hi>Tintein</hi> with ſome corne which we got out of a Ship that was at the Fort, they being in great diſtreſſe (Captaine <hi>Weldon</hi> being ap<g ref="char:EOLhyphen"/>pointed by his Lordſhip to ſecond mee with his Com<g ref="char:EOLhyphen"/>pany at <hi>Kilbreede</hi>) we came to <hi>Tintein</hi> within ſhot ther<g ref="char:EOLhyphen"/>of, but before I came thither I muſt bee enforced (by reaſon of the many bogs, which are unpaſſible) to march through <hi>Battleſtowne,</hi> wherein was a Caſtle which we formerly had burned, which Caſtle if the enemy had gotten and manned the ſame, might have proved very dangerous to us in our retreate, the enemy being very thick round about us, wherefore I commanded twelve musketteers, Captaine <hi>VVeldon</hi> being appointed to ſend ſo many more to ſtrengthen them, which was done accordingly, to make good the ſame untill my returne; Before I had marched within musket ſhot of <hi>Tintein</hi> as aforeſad, and the Corne was delivered, the enemy was gathered together round about us in ſeve<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll places, ſome of them about 200, made towards <hi>Battleſtowne</hi> thinking to have gotten that, but whenas my men ſhot at them, they retreated and kept a loofe
+<pb n="13" facs="tcp:155994:7"/>off them, about 200 more came from <hi>Dungolph,</hi> and manned the ditches that lay betweene <hi>Dungolph,</hi> and <hi>Batleſtowne,</hi> whereas wee muſt of neceſſity be forced to march along by them, whenas I came to <hi>Battleſtowne</hi> I commanded of my men from off the Caſtle, reſolving to make our paſſadge through them that lay before us, for the enemy had gotten the advantage both of our Van, and Reare, and ſhot at us very thicke, being in this dangerous caſe I led up the Van of my Compa<g ref="char:EOLhyphen"/>ny, mine Enſigne bringing up the Reare, my men gave fire upon the enemy ſo roundly both in the Van, &amp; R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are, that we forced them to keepe off at diſtance, ſo as they could not gaine any advantage upon us, and manteined the ſame ſo well, that I had gotten my men over a narrow paſſage of water, in a bogge which lay betweene us and Captaine <hi>VVeldon:</hi> which we God be praiſed having recovered in ſafety, onely I loſt one of my men and an other was hurt upon the firſt on<g ref="char:EOLhyphen"/>ſet: But 'tis conceived the enemy loſt more on their ſide, for there was heard a great cry among them. Then marching up to <hi>Kilbreede</hi> to Captaine <hi>Weldon</hi> there alſo was an other Company of the Rebells within halfe a mile thereof, that intended to have got that place, which Captaine <hi>VVeldon</hi> was compelled to make good, and therefore could not ſafely come to relieve, or ſecond mee, which if it had fallen out otherwiſe I doe preſume hee would have done, Then wee mar<g ref="char:EOLhyphen"/>ched unto the Fort, the enemy not purſuing us any further.</p>
+               <p>Where wee had not remained above the ſpace of two howers, but that the enemy juſt a our men were at dinner gave us a ſuddaine Allarum, ſending their Horſes skouting abroad, who tooke two of our Horſes,
+<pb n="14" facs="tcp:155994:8"/>as they were feeding, without command of the Fort, and drove them away unt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a place called <hi>Ramſegrange,</hi> about a mile and a halfe from the Fort, where when<g ref="char:EOLhyphen"/>as our men were gotten in Armes, and ſome of them had ſallyed forth, they were diſcovered about 300 of them: Captaine <hi>VVeldon</hi> and I ſallyed preſently forth with 200 Musketteeres, and Pikes, towards them, offering to meete with them in a plaine plot of ground, but they would not come on, intending ſolely to have drawne us ſo farre from the Fort, that there Ambuſcadoes might have cut us off, But wee well knowing their accuſtomed treachery, made a ſtand, and mainteined all ſuch places of advantage that we could, for prevention of any ſuddaine attempt that might bee given againſt the Fort, which the enemy perceiving, immediatly they appeared in ſeverall bodies, whereas they lay formerly concealed, amount<g ref="char:EOLhyphen"/>ing in the whole number as neere as wee could gueſſe to a thouſand Foote, and an hundred Horſe, then we retreated, onely a few Shot were bandied between us and came into the Fort, All which companies of the enemies had (as wee conjecture) intelligenee of my going to relieve <hi>Tyntein,</hi> and were fully bent to have cut me off, and my company, had it not pleaſed God to protect us, it haſtning our returne from thence, and likewiſe to protract moſt of them, who came under the command of the Lord <hi>Mungarralds.</hi> Sonne, to have joyned with the reſt of the Rebells (which I met with<g ref="char:EOLhyphen"/>all in the morning) ſo long that their intended pro<g ref="char:EOLhyphen"/>ditious deſigne was altogether made fruſtrate and prevented.</p>
+               <pb facs="tcp:155994:8"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
